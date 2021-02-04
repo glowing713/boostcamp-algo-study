@@ -26,3 +26,4 @@
 |BFS/DFS 탐색 문제|02/01(월)|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165?language=python3)|
 ||02/02(화)|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162?language=python3)|
 ||02/03(수)|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163?language=python3)|
+|Dynamic Programming|02/04(목)|[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105?language=python3)|
