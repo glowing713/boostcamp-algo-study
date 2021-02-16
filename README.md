@@ -27,5 +27,5 @@
 ||02/02(화)|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162?language=python3)|
 ||02/03(수)|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163?language=python3)|
 |Dynamic Programming|02/04(목)|[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105?language=python3)|
-|이분 탐색|02/15(월)|[공유기 설치](https://www.acmicpc.net/problem/2110)|
+|Binary Search|02/15(월)|[공유기 설치](https://www.acmicpc.net/problem/2110)|
 ||02/16(화)|[예산](https://www.acmicpc.net/problem/2512)|
