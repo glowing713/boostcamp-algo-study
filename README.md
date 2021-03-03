@@ -28,7 +28,7 @@
 ||02/02(화)|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162?language=python3)|
 ||02/03(수)|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163?language=python3)|
 |Dynamic Programming|02/04(목)|[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105?language=python3)|
-|Binary Search|02/15(월)|[공유기 설치](https://www.acmicpc.net/problem/2110)|
+|이진 탐색|02/15(월)|[공유기 설치](https://www.acmicpc.net/problem/2110)|
 ||02/16(화)|[예산](https://www.acmicpc.net/problem/2512)|
 |구현/시뮬레이션|02/18(목)|[지구 온난화](https://www.acmicpc.net/problem/5212)|
-|Graph Search|03/02(화)|[안전 영역](https://www.acmicpc.net/problem/2468)|
+|그래프 탐색|03/02(화)|[안전 영역](https://www.acmicpc.net/problem/2468)|
