@@ -31,3 +31,4 @@
 |Binary Search|02/15(월)|[공유기 설치](https://www.acmicpc.net/problem/2110)|
 ||02/16(화)|[예산](https://www.acmicpc.net/problem/2512)|
 |구현/시뮬레이션|02/18(목)|[지구 온난화](https://www.acmicpc.net/problem/5212)|
+||03/02(화)|[안전 영역](https://www.acmicpc.net/problem/2468)|
