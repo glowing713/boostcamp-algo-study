@@ -28,6 +28,7 @@
 ||02/02(화)|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162?language=python3)|
 ||02/03(수)|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163?language=python3)|
 |Dynamic Programming|02/04(목)|[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105?language=python3)|
+||03/05(금)|[안녕](https://www.acmicpc.net/problem/1535)|
 ||03/08(월)|[등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898?language=python3)|
 ||03/09(화)|[도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897?language=python3)|
 |이진 탐색|02/15(월)|[공유기 설치](https://www.acmicpc.net/problem/2110)|
